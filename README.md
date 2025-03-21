@@ -37,22 +37,22 @@ Yearly Trends and Anomalies:
 - Do complaints correlate with external factors such as economic downturns or regulatory changes?
 
 # Dashboards
-                                                       ALL
+                                                     ALL
 ![Comp dashbaord](https://github.com/user-attachments/assets/ae6bc21c-5baf-4c8f-8c8b-64c7c6eb44a6)
 
-                                                   Bank Services
+                                                Bank Services
 ![image](https://github.com/user-attachments/assets/2021c8c0-c2dd-41b9-8593-c4cd956f3077)
 
-                                                    Credit Card 
+                                                 Credit Card 
 ![image](https://github.com/user-attachments/assets/aa177f25-502a-4c7e-a019-60a7648e0b02)
 
-                                                  Checking/Services
+                                               Checking/Services
 ![image](https://github.com/user-attachments/assets/eb97eb60-c00d-4d6b-8437-e4f734abc8c0)
 
-                                                      Mortgage
+                                                   Mortgage
 ![image](https://github.com/user-attachments/assets/2ff436cf-093e-490b-b87a-fb69279263a1)
 
-                                                       Others
+                                                    Others
 ![image](https://github.com/user-attachments/assets/d138dfe4-b481-4785-ab80-7abf398c9afe)
 
 Link to the full interactive dashboard (for the best experience, switch to full-screen mode – bottom right): https://public.tableau.com/app/profile/g.ney.polat/viz/ComplaintDashboard_17411854919270/CUSTOMERCOMPLAINTDASHBOARD

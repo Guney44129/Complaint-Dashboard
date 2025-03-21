@@ -37,7 +37,7 @@ Yearly Trends and Anomalies:
 - Do complaints correlate with external factors such as economic downturns or regulatory changes?
 
 # Dashboards
-                                                                  ALL
+                                                      ALL
 ![Comp dashbaord](https://github.com/user-attachments/assets/ae6bc21c-5baf-4c8f-8c8b-64c7c6eb44a6)
 
                                                               Bank Services
